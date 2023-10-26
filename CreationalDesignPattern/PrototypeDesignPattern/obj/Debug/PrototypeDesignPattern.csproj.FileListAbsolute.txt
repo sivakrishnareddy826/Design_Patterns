@@ -1,0 +1,7 @@
+C:\C# Design Patterns\CreationalDesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+C:\C# Design Patterns\CreationalDesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+C:\C# Design Patterns\CreationalDesignPattern\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+C:\C# Design Patterns\CreationalDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csproj.AssemblyReference.cache
+C:\C# Design Patterns\CreationalDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\C# Design Patterns\CreationalDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+C:\C# Design Patterns\CreationalDesignPattern\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb
